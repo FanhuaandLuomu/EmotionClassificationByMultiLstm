@@ -1,0 +1,2 @@
+# EmotionClassificationByMultiLstm
+一种尝试解决情绪分类任务中的不平衡问题的分类方法研究。
